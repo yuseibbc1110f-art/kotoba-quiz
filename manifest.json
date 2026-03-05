@@ -1,0 +1,24 @@
+{
+  "short_name": "語句クイズ",
+  "name": "語句クイズ - ことわざ・慣用句・四字熟語",
+  "description": "12カテゴリー600問の語句クイズアプリ",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#e8820a",
+  "background_color": "#fdf6e3"
+}
